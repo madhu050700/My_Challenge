@@ -1,0 +1,63 @@
+body{
+  background-color: hsl(30, 38%, 92%);
+  font-size: 14px;
+}
+
+.box{
+  background-color: hsl(0, 0%, 100%);
+  width: 15%;
+margin: 170px 450px 200px auto;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+padding:30px 25px;
+}
+button{
+  background-color: hsl(158, 36%, 37%);
+  color:white;
+  margin: auto;
+  border-radius: 6px;
+  padding:10px;
+  width:100%;
+  border-width: 0;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 500;
+}
+h1{
+  font-family: "Fraunces",serif;
+  font-weight: 700;
+  margin-top: 14px;
+}
+p{
+  font-family: "Montserrat",sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.5;
+  color:hsl(228, 12%, 48%);
+}
+#title{
+  letter-spacing: 3px;
+  color: hsl(228, 12%, 48%);
+  font-size: 11px;
+}
+.main{
+position:absolute;
+  width:18%;
+  margin-left: 491px;
+ border-top-left-radius: 10px;
+ border-bottom-left-radius: 10px;
+}
+#icon{
+  margin:0 10px 0 10px;
+  height:15px;
+}
+#price{
+  display: inline-block;
+  color:hsl(158, 36%, 37%);
+  padding-right: 20px;
+  margin-top: 10px;
+}
+#value{
+  text-decoration: line-through;
+  color:hsl(228, 12%, 48%);
+  vertical-align:super;
+}
