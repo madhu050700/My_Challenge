@@ -59,7 +59,7 @@ I would like to incorporate bootstrap framework to make the website responsive t
 
 ## Author
 
-- Name - [Madhumitha Sivakumaran]
--Email - (madhumithas0507@gmail.com)
+- Name : Madhumitha Sivakumaran
+- Email : (madhumithas0507@gmail.com)
 
 
